@@ -1,2 +1,2 @@
 # c-things
-practicing c++ from cs2124
+practicing c++ 
